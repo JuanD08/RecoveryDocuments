@@ -1,0 +1,29 @@
+*{
+    background-color: #000000;
+    color: aliceblue;
+}
+header{color: rgb(255, 67, 170);
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+background-color: rgb(148, 148, 148);
+width: 900px;
+height: 100px;
+font-size: 50px;
+margin-left: 100px}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+#Titulo1{
+    color: brown;
+}
+
+.Titulo2{
+    color: chartreuse;
+} 
+
+#Titulo3{
+    display: flex;
+    justify-content: center;
+}
